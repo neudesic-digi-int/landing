@@ -1,6 +1,6 @@
 # Neudesic Digital Integration service line Git reference
 
-Welcome to the reference page for Digital Integration references.
+Welcome to the (one of several) reference page for Digital Integration resources.
 
 Please see the standards documents for [repositories, security, and naming conventions][1] or check the list below for repositories of note.
 
