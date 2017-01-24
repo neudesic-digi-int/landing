@@ -13,7 +13,7 @@ Feel free to fork and create a pull request to update content or alternatively s
 3. [distributed-systems][4]: Introduction to distributed system design
 
 
-[1]: https://github.com/kerbybarrett/git-home/wiki
+[1]: https://github.com/kerbybarrett/git-home/wiki/Git-Style-Guide
 [2]: https://github.com/neudesic-digi-int/AkkaDemos
 [3]: https://github.com/neudesic/iot-event-simulation
 [4]: https://github.com/neudesic-digi-int/distributed-systems
